@@ -3,3 +3,9 @@ Nicetek is an android application of online education platform. Offers its users
 
 https://user-images.githubusercontent.com/49583942/134693460-9361d4ce-3009-42a8-8556-f8b044a56c27.mp4
 
+Technologies : 
+*  SpringBoot
+*  Android 
+*  Java 
+*  MYSQL
+
